@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: rgb(122, 38, 38) !important;
   margin: 0 50px;
   height: 100vh;
   overflow: hidden;
